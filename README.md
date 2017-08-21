@@ -1,2 +1,2 @@
 # docker-tools
-quelque outils pour simplifier docker
+quelques outils pour simplifier docker
