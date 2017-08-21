@@ -1,7 +1,9 @@
-Script equivalent a netstat pour les container docker quand netstat est introuvable dans le container
+# docker-netstat
 
-pour utiliser : 
-chmod +x docker-netstat.sh
-./docker-netstat.sh container_name_ou_id
+## Script equivalent a netstat pour les container docker quand netstat est introuvable dans le container
 
-Necessite les droits root
+### pour utiliser : 
+* chmod +x docker-netstat.sh
+* ./docker-netstat.sh container_name_ou_id
+
+#### Necessite les droits root
